@@ -1,4 +1,4 @@
-## Data Viusalizations done using different data sets, different questions baed on real-time situations were assumed and analysed using different packages.
+# Data Viusalizations done using different data sets, different questions baed on real-time situations were assumed and analysed using different packages.
 
 # Q1. Using 2018 data, a scatter plot was created to plot mean household income against the percentage of the population with health insurance. Colors of the bubbles was changed to green. 
 # Q2. Using COVID data, a line graph between moving average and the number of daily cases for Pasco was created.
